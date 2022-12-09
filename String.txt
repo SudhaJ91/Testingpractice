@@ -1,0 +1,13 @@
+String
+
+
+----It is a predefined class and it is in java.lang package
+----The Java platform provides the String class to create and manipulate strings.
+----Strings, one of the most common objects used in Java programming, and it is sequence of characters. 
+----Create String in 2 ways
+	---Literal
+	---Non-Literal
+
+Literal
+---String Literal is a String created using double quotes
+
